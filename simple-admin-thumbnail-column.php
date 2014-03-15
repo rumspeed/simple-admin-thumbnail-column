@@ -2,7 +2,7 @@
 /*
 Plugin Name: Simple Admin Thumbnail Column
 Description: Adds support for a featured image thumbnail column in admin post editor list
-Version: 1.0
+Version: 1.1.0
 Author: Scot Rumery
 Author URI: http://rumspeed.com/scot-rumery/
 License: GPLv2
