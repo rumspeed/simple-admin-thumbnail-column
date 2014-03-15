@@ -48,4 +48,3 @@ add_action('manage_posts_custom_column',  'rum_show_thumbnail_column');
 // for hierarchical => true  post types, use 'manage_pages_custom_column' action hook
 add_action('manage_pages_custom_column',  'rum_show_thumbnail_column');
 
-?>
