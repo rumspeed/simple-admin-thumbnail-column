@@ -42,6 +42,7 @@ function rum_show_thumbnail_column($name) {
             echo $thumbnail;
     }
 }
+// for hierarchical => fales post types, use 'manage_posts_custom_column' action hook
 add_action('manage_posts_custom_column',  'rum_show_thumbnail_column');
 
 
